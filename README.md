@@ -13,4 +13,4 @@
 
 🏆6.[Digital Watch](https://ghanendrabhardwaj19.github.io/JS-Projects/watch/index.html)🤩
 
-🏆7.[Digital Watch](https://ghanendrabhardwaj19.github.io/JS-Projects/HTMLCSSSlider/index.html)🤩
+🏆7.[Beautiful Carousel](https://ghanendrabhardwaj19.github.io/JS-Projects/HTMLCSSSlider/index.html)🤩
