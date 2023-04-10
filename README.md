@@ -12,3 +12,5 @@
 🏆5.[ToDo Website](https://ghanendrabhardwaj19.github.io/JS-Projects/ToDo/index.html)🤩
 
 🏆6.[Digital Watch](https://ghanendrabhardwaj19.github.io/JS-Projects/watch/index.html)🤩
+
+🏆7.[Digital Watch](https://ghanendrabhardwaj19.github.io/JS-Projects/HTMLCSSSlider/index.html)🤩
